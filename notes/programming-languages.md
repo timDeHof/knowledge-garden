@@ -1,8 +1,8 @@
 ---
-id: neokad2c52qiq1dvyqp1fa7
+id: fx25u8ymren8j73hufg5g1f
 title: Programming Languages
 desc: ''
-updated: 1664933704765
+updated: 1664976431044
 created: 1664932358052
 ---
-[[programming-languages.python]]
+[[python|programming-languages.python]]
