@@ -2,9 +2,10 @@
 id: v30dwvq9k6pyrl3b5bfg6m8
 title: Data Types
 desc: ''
-updated: 1664977247142
+updated: 1665156941230
 created: 1664933910613
 ---
+# Fundamental Data Types
 ## Numbers
 
 [[numbers|programming-languages.python.data-types.numbers]]
@@ -27,4 +28,12 @@ created: 1664933910613
 
 ## Sets
 
+
+# Custom types
+
+## Classes
+
+# Specialized Data Types
+## Modules
 ## None
+
