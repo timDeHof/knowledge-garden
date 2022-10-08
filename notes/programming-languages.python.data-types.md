@@ -2,7 +2,7 @@
 id: v30dwvq9k6pyrl3b5bfg6m8
 title: Data Types
 desc: ''
-updated: 1665156941230
+updated: 1665194398104
 created: 1664933910613
 ---
 # Fundamental Data Types
@@ -16,9 +16,11 @@ created: 1664933910613
 
 ## Variables
 
-[[variables|programming-languages.python.data-types.variables]]
+[[variables|programming-languages.python.terms.variables]]
 
 ## Boolean
+
+[[programming-languages.python.data-types.booleans]]
 
 ## Lists
 
