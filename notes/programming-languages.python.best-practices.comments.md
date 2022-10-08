@@ -2,7 +2,7 @@
 id: 0w9czoc18l0nzwvsb0iflp2
 title: Comments
 desc: ''
-updated: 1665195680197
+updated: 1665196213243
 created: 1665195578975
 ---
 # comments
@@ -15,3 +15,5 @@ created: 1665195578975
 
 ## syntax
 comments starts with a #, and python will ignore them
+
+[Commenting Best Practices](https://realpython.com/python-comments-guide/)
