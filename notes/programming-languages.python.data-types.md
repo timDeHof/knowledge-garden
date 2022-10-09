@@ -2,7 +2,7 @@
 id: v30dwvq9k6pyrl3b5bfg6m8
 title: Data Types
 desc: ''
-updated: 1665194398104
+updated: 1665271998839
 created: 1664933910613
 ---
 # Fundamental Data Types
@@ -23,11 +23,11 @@ created: 1664933910613
 [[programming-languages.python.data-types.booleans]]
 
 ## Lists
-
+[[programming-languages.python.data-types.lists]]
 ## Dictionaries
-
+[[programming-languages.python.data-types.dictionaries]]
 ## Tuples
-
+[[programming-languages.python.data-types.tuple]]
 ## Sets
 
 
@@ -38,4 +38,4 @@ created: 1664933910613
 # Specialized Data Types
 ## Modules
 ## None
-
+![[programming-languages.python.data-types.none]]
