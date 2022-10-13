@@ -26,9 +26,9 @@ workspace:
             fsPath: .
             selfContained: true
             name: Knowledge Garden
-            remote: 
+            remote:
                 type: git
-                url: "git@github.com:timDeHof/knowledge-garden.git"
+                url: git@github.com:timDeHof/knowledge-garden.git
     journal:
         dailyDomain: daily
         name: journal
@@ -107,3 +107,4 @@ publishing:
     enableRandomlyColoredTags: true
     enableTaskNotes: true
     enablePrettyLinks: true
+    searchMode: lookup
