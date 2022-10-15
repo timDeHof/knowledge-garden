@@ -2,7 +2,7 @@
 id: oy3pp9ryjm8ro7gjbqnlav9
 title: Oop
 desc: ''
-updated: 1665513081192
+updated: 1665852723407
 created: 1665513081192
 ---
 ## Python OOPs Concepts:
@@ -18,7 +18,7 @@ Principles of OOPs:
 
 An object oriented programming is based on **seven fundamental principles**.
 
-1. Object
+1. [[Object| programming-languages.python.best-practices.oop.objects]]
 2. Class
 3. Method
 4. Inheritance
