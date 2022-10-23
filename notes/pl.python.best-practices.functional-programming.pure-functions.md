@@ -17,10 +17,10 @@ def multiply_by2(list):
 print(multiply_by2([1,2,3])) # => [2,4,6]    
 ```
 ## common functions
-1. [[map()| programming-languages.python.best-practices.functional-programming.pure-functions.map]]
-2. [[filter()|programming-languages.python.best-practices.functional-programming.pure-functions.filter]]
-3. [[zip()| programming-languages.python.best-practices.functional-programming.pure-functions.zip]]
-4. [[reduce()| programming-languages.python.best-practices.functional-programming.pure-functions.reduce]]
+1. [[map()|pl.python.best-practices.functional-programming.pure-functions.map]]
+2. [[filter()|pl.python.best-practices.functional-programming.pure-functions.filter]]
+3. [[zip()|pl.python.best-practices.functional-programming.pure-functions.zip]]
+4. [[reduce()|pl.python.best-practices.functional-programming.pure-functions.reduce]]
 
 [more information](https://www.geeksforgeeks.org/pure-functions/)
 

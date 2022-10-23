@@ -1,7 +1,7 @@
 ---
 id: 71i0m1g2z80thna6016xqfw
 title: Mro
-desc: 'Method Resolution Order'
+desc: Method Resolution Order
 updated: 1665875073419
 created: 1665874564326
 ---

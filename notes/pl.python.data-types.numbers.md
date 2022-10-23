@@ -6,7 +6,7 @@ updated: 1664976331289
 created: 1664934306660
 ---
 
-Python's 2 main types is [[int(integers)|programming-languages.python.data-types.numbers.int]] and [[float(floating point numbers)|programming-languages.python.data-types.numbers.float]]
+Python's 2 main types is [[int(integers)|pl.python.data-types.numbers.int]] and [[float(floating point numbers)|pl.python.data-types.numbers.float]]
 
 ## Arithmatic
 

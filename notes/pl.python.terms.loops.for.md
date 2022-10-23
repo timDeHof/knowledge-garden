@@ -15,7 +15,7 @@ This is less like the **for** keyword in other programming languages, and works 
 With the **for** loop we can execute a set of statements, once for each item in a list, tuple, set etc.
 
 ### syntax
-for var in [[iterable|programming-languages.python.terms.iterables]]:
+for var in [[iterable|pl.python.terms.iterables]]:
     # statements
     
 ### Example
@@ -29,9 +29,9 @@ for var in [[iterable|programming-languages.python.terms.iterables]]:
 ```
 
 ## common for loop usage
-![[programming-languages.python.terms.loops.range]]
+![[pl.python.terms.loops.range]]
 
 ## best practice
-![[programming-languages.python.best-practices.end-parameter-in-print]]
+![[pl.python.best-practices.end-parameter-in-print]]
 [example](https://repl.it/@aneagoie/GUI-solution)
 [more practice](https://repl.it/@aneagoie/loops)

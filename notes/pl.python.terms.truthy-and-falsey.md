@@ -10,7 +10,7 @@ We use "truthy" and "falsy" to differentiate from the bool values True and False
 A "truthy" value will satisfy the check performed by if or while statements. 
 
 A "falsy" value are:
-* [[None| programming-languages.python.data-types.none]]  
+* [[None|pl.python.data-types.none]]  
 * False   
 
 * Numbers that are numerically equal to zero, including:

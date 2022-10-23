@@ -1,0 +1,134 @@
+version: 1
+imports: []
+schemas:
+  - id: pl
+    title: programming-languages
+    parent: root
+    children:
+      - pattern: '*'
+        children:
+          - pattern: actions
+            children:
+              - pattern: functions
+                children:
+                  - pattern: arguments
+                    children:
+                      - pattern: '*args-**kwargs'
+                      - pattern: keyword
+                      - pattern: positional
+                  - pattern: docstrings
+                  - pattern: parameters
+                    children:
+                      - pattern: default
+                  - pattern: return
+              - pattern: indentations-in-python
+              - pattern: short-circuiting
+              - pattern: ternary-operator
+              - pattern: walrus-operators
+          - pattern: best-practices
+            children:
+              - pattern: clean-code
+              - pattern: comments
+              - pattern: debugging
+              - pattern: dont-read-the-dictionary
+              - pattern: end-parameter-in-print
+              - pattern: functional-programming
+                children:
+                  - pattern: lambda-expressions
+                  - pattern: pure-functions
+                    children:
+                      - pattern: filter
+                      - pattern: map
+                      - pattern: reduce
+                      - pattern: zip
+              - pattern: how-to-organize-code
+                children:
+                  - pattern: importing
+                  - pattern: modules
+                  - pattern: packages
+              - pattern: is-vs-==
+              - pattern: oop
+                children:
+                  - pattern: abstraction
+                  - pattern: dunder-methods
+                  - pattern: encapsulation
+                  - pattern: inheritance
+                    children:
+                      - pattern: multiple-inheritance
+                        children:
+                          - pattern: mro
+                  - pattern: introspection
+                  - pattern: objects
+                    children:
+                      - pattern: __init__
+                  - pattern: polymorphism
+                  - pattern: super
+              - pattern: python-package-index
+              - pattern: returns-cant-be-used-outside-of-a-function
+              - pattern: test-your-assumptions
+              - pattern: variables-rules
+              - pattern: virtual-environments
+              - pattern: what-is-good-code?
+          - pattern: data-types
+            children:
+              - pattern: booleans
+              - pattern: dictionaries
+                children:
+                  - pattern: dictionaries-methods
+                  - pattern: remove-key
+              - pattern: lists
+                children:
+                  - pattern: list-unpacking
+                  - pattern: lists-methods
+              - pattern: none
+              - pattern: numbers
+                children:
+                  - pattern: float
+                  - pattern: int
+              - pattern: sets
+                children:
+                  - pattern: built-in-methods
+              - pattern: strings
+                children:
+                  - pattern: built-in-functions-&-methods
+              - pattern: tuple
+          - pattern: terms
+            children:
+              - pattern: augmented-assignment-operator
+              - pattern: comprehensions
+              - pattern: conditional-logic
+              - pattern: decorators
+              - pattern: error-handling
+              - pattern: escape-sequence
+              - pattern: expression-vs-statements
+              - pattern: expressions
+              - pattern: formatted-strings
+              - pattern: generators
+              - pattern: higher-order-functions
+              - pattern: immutability
+              - pattern: iterables
+              - pattern: logical-operators
+              - pattern: long-strings
+              - pattern: loops
+                children:
+                  - pattern: break
+                  - pattern: continue
+                  - pattern: for
+                    children:
+                      - pattern: enumerate
+                  - pattern: pass
+                  - pattern: range
+                  - pattern: while
+              - pattern: operator-precedence
+              - pattern: scope
+                children:
+                  - pattern: keywords
+                    children:
+                      - pattern: global
+                      - pattern: nonlocal
+              - pattern: statements
+              - pattern: string-concatenation
+              - pattern: strings-indexes
+              - pattern: text-conversion
+              - pattern: truthy-and-falsey
+              - pattern: variables

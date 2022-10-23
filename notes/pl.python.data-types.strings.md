@@ -23,11 +23,11 @@ created: 1664978296616
     print('*' * 10) # **********
  ```
  
-![[programming-languages.python.terms.strings-indexes]] 
+![[pl.python.terms.strings-indexes]] 
 
-![[programming-languages.python.data-types.strings.built-in-functions-&-methods]]
+![[pl.python.data-types.strings.built-in-functions-&-methods]]
 
-![[programming-languages.python.terms.formatted-strings]]
+![[pl.python.terms.formatted-strings]]
 
 ## Palindrome check
 

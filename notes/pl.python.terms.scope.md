@@ -26,5 +26,5 @@ print(a)            # 1
 print(confusion())  # 5
 ```
 ## keywords
-* [[global| programming-languages.python.terms.scope.keywords.global]]
-* [[nonlocal| programming-languages.python.terms.scope.keywords.nonlocal]]
+* [[global|pl.python.terms.scope.keywords.global]]
+* [[nonlocal|pl.python.terms.scope.keywords.nonlocal]]

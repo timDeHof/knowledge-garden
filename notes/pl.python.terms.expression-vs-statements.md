@@ -5,5 +5,5 @@ desc: ''
 updated: 1665177408146
 created: 1665177182864
 ---
-![[programming-languages.python.terms.expressions]]
+![[pl.python.terms.expressions]]
 

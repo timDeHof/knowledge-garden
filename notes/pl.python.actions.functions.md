@@ -30,11 +30,11 @@ def fun():
 fun()
 ```
 
-![[programming-languages.python.actions.functions.parameters]]
+![[pl.python.actions.functions.parameters]]
 
-![[programming-languages.python.actions.functions.arguments]]
+![[pl.python.actions.functions.arguments]]
 
-![[programming-languages.python.actions.functions.docstrings]]
+![[pl.python.actions.functions.docstrings]]
 
 [exercise](https://replit.com/@tdehof/tesla#main.py)
 [exercise solution](https://repl.it/@aneagoie/tesla-1)

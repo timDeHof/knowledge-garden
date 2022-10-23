@@ -6,4 +6,4 @@ updated: 1666141225824
 created: 1666140020929
 ---
 ## ways to organize code
-- [[modules | programming-languages.python.best-practices.how-to-organize-code.modules]] 
+- [[modules|pl.python.best-practices.how-to-organize-code.modules]] 

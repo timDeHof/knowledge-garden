@@ -24,6 +24,6 @@ print(thisdict["model"]) # 'Mustang'
     dict()
 ```
 
-![[programming-languages.python.data-types.dictionaries.dictionaries-methods]]
+![[pl.python.data-types.dictionaries.dictionaries-methods]]
 
-![[programming-languages.python.data-types.dictionaries.remove-key]]
+![[pl.python.data-types.dictionaries.remove-key]]

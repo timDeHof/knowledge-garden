@@ -25,9 +25,9 @@ Unlike strings, lists are mutable sequences in python.
 
     # : is called slicing and has the format [ start : end : step]
 ```
-![[programming-languages.python.data-types.lists.lists-methods]]
+![[pl.python.data-types.lists.lists-methods]]
 
-![[programming-languages.python.data-types.lists.list-unpacking]]
+![[pl.python.data-types.lists.list-unpacking]]
 
 ## Get First and Last element of a list
 ```python

@@ -19,4 +19,4 @@ def fun():
     .
     return [expression]
 ```
-![[programming-languages.python.best-practices.returns-cant-be-used-outside-of-a-function]]
+![[pl.python.best-practices.returns-cant-be-used-outside-of-a-function]]

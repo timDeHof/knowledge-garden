@@ -8,4 +8,4 @@ created: 1664987744167
 # Variables
 stores information in our program that we can use later.
 ## Best practices
-![[programming-languages.python.best-practices.variables-rules]]
+![[pl.python.best-practices.variables-rules]]

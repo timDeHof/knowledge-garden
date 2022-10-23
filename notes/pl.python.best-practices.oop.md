@@ -18,16 +18,16 @@ Principles of OOPs:
 
 An object oriented programming is based on **seven fundamental principles**.
 
-1. [[Object| programming-languages.python.best-practices.oop.objects]]
+1. [[Object|pl.python.best-practices.oop.objects]]
 2. Class
 3. Method
 4. Inheritance
 5. Polymorphism
-6. [[encapsulation|programming-languages.python.best-practices.oop.encapsulation]]
+6. [[encapsulation|pl.python.best-practices.oop.encapsulation]]
 7. Data Abstraction
 
 ## 4 pillars of OOP
-1. [[encapsulation|programming-languages.python.best-practices.oop.encapsulation]]
-2. [[abstraction|programming-languages.python.best-practices.oop.abstraction]]
-3. [[inheritance|programming-languages.python.best-practices.oop.inheritance]]
+1. [[encapsulation|pl.python.best-practices.oop.encapsulation]]
+2. [[abstraction|pl.python.best-practices.oop.abstraction]]
+3. [[inheritance|pl.python.best-practices.oop.inheritance]]
 

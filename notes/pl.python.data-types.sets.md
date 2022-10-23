@@ -7,7 +7,7 @@ created: 1665272009927
 ---
 unordered collection of unique elements
 
-![[programming-languages.python.data-types.sets.built-in-methods]]
+![[pl.python.data-types.sets.built-in-methods]]
 # Frozenset
 - hashable -> it can be used as a key in a dictionary or as an element in a set.
 ```python
