@@ -2,7 +2,7 @@
 id: q7acyinnloxttumih0igx3n
 title: TypeScript
 desc: ""
-updated: 1668522977199
+updated: 1668532504776
 created: 1668293904203
 ---
 
@@ -26,3 +26,4 @@ types.
 [Typescript docs](https://www.typescriptlang.org/)
 [Anders Hejlsberg interview](https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-named-anders-hejlsberg-42g4)
 [dave gray typescript course](https://github.com/gitdagray/typescript-course)
+[typescript cheatsheet](https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets)
