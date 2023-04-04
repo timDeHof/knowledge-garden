@@ -2,7 +2,7 @@
 id: dqonjrifiyfnfjzy56khyyw
 title: Good Design
 desc: ""
-updated: 1680567949095
+updated: 1680611726905
 created: 1680567603880
 ---
 
@@ -38,8 +38,7 @@ created: 1680567603880
 
 ### Title: Norman Doors demonstrate poor user experience and a lack of consideration for users' needs.
 
-##IDEEA: Good UX design considers the user's needs and emotions, making products
-intuitive and easy to use.
+## IDEEA: Good UX design considers the user's needs and emotions, making products intuitive and easy to use.
 
 ### Details:
 
