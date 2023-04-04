@@ -2,7 +2,7 @@
 id: vge6jlwk37ac9o5g700r7mi
 title: Experience
 desc: ""
-updated: 1680548918746
+updated: 1680565288843
 created: 1680548675697
 ---
 
@@ -25,6 +25,8 @@ created: 1680548675697
   real-time and how they interact with it.
 - Good UX design can improve business performance by increasing product usage
   and recommendation, as well as positive opinions of the company.
-- Despite this, many companies do not recognize the value of UX design.
+- Many companies do not recognize the value of UX design.
 
 ### Title: Importance of Good UX Design for Product Success.
+
+![[d.ux-design.experience.characteristics]]
